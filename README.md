@@ -1,7 +1,6 @@
 # Sales & Profit Interactive Dashboard – Excel
 
 This project showcases a fully interactive sales and profit dashboard built in Microsoft Excel to monitor key business performance metrics. It provides a clean, dynamic interface for sales teams and leadership to gain actionable insights.
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/47415d9e-00cd-40b0-a555-300555ac28e1" />
 
 
 📊 **Key Features**
